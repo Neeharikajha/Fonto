@@ -38,3 +38,5 @@ scrape_links()
 
 # Close the browser
 driver.quit()
+
+
